@@ -1,0 +1,1000 @@
+30;Rattlesnake, dusky;Crotalus triseriatus
+470;Hornbill, red-billed;Tockus erythrorhyncus
+1413;Alligator, american;Alligator mississippiensis
+33;Snowy owl;Nyctea scandiaca
+393;Snake, buttermilk;Coluber constrictor
+207;Asian lion;Panthera leo persica
+1503;Eagle, golden;Aquila chrysaetos
+1776;Magpie, australian;Gymnorhina tibicen
+1105;Grebe, little;Tachybaptus ruficollis
+1610;Blue-footed booby;Sula nebouxii
+1449;Blue catfish;Ictalurus furcatus
+432;Flightless cormorant;Nannopterum harrisi
+982;Albatross, galapagos;Diomedea irrorata
+781;Magpie, black-backed;Gymnorhina tibicen
+380;Indian mynah;Acridotheres tristis
+680;Bat, madagascar fruit;Pteropus rufus
+1467;Golden jackal;Canis aureus
+1855;Quoll, eastern;Dasyurus viverrinus
+91;Dove, laughing;Streptopelia senegalensis
+156;Openbill, asian;Anastomus oscitans
+935;Bottle-nose dolphin;Tursiops truncatus
+1448;Lory, rainbow;Trichoglossus haematodus moluccanus
+1663;Stork, black-necked;Ephippiorhynchus mycteria
+801;White spoonbill;Platalea leucordia
+1168;Black-eyed bulbul;Pycnonotus barbatus
+934;Cockatoo, sulfur-crested;Cacatua galerita
+1456;Feathertail glider;Acrobates pygmaeus
+1615;Common dolphin;Delphinus delphis
+350;White-fronted bee-eater;Merops bullockoides
+1626;Buffalo, african;Snycerus caffer
+97;Coqui partridge;Francolinus coqui
+447;Thomson's gazelle;Gazella thompsonii
+1509;Tawny eagle;Anitibyx armatus
+412;Palm squirrel;Funambulus pennati
+1191;Possum, common brushtail;Trichosurus vulpecula
+68;Water moccasin;Agkistrodon piscivorus
+266;Eurasian hoopoe;Upupa epops
+966;Cormorant, flightless;Nannopterum harrisi
+1172;Coot, red-knobbed;Fulica cristata
+227;Anteater, australian spiny;Tachyglossus aculeatus
+767;Green-winged macaw;Ara chloroptera
+1955;Small Indian mongoose;Herpestes javanicus
+1208;Armadillo, nine-banded;Dasypus novemcinctus
+1547;Red-winged blackbird;Agelaius phoeniceus
+334;Magnificent frigate bird;Fregata magnificans
+1888;Otter, small-clawed;Aonyx cinerea
+1365;Southern hairy-nosed wombat;Lasiorhinus latifrons
+540;Corella, long-billed;Cacatua tenuirostris
+330;Cow, scottish highland;Bos taurus
+1520;Bleu, red-cheeked cordon;Uraeginthus bengalus
+1475;North American red fox;Vulpes vulpes
+1778;Blue-breasted cordon bleu;Uraeginthus angolensis
+1183;Squirrel, indian giant;Ratufa indica
+627;Sungazer, yellow-brown;Cordylus giganteus
+945;Tasmanian devil;Sarcophilus harrisii
+116;Golden jackal;Canis aureus
+82;Greater blue-eared starling;Lamprotornis chalybaeus
+911;Red meerkat;Cynictis penicillata
+817;Heron, giant;Ardea golieth
+59;White-browed sparrow weaver;Plocepasser mahali
+1008;Blue peacock;Pavo cristatus
+1548;Goose, cape barren;Cereopsis novaehollandiae
+505;Egyptian viper;Naja haje
+868;Leopard;Panthera pardus
+312;Seal, northern elephant;Mirounga angustirostris
+1287;Komodo dragon;Varanus komodensis
+929;Monitor, water;Varanus salvator
+811;Agama lizard (unidentified);Agama sp.
+1156;Fox, silver-backed;Vulpes chama
+131;Impala;Aepyceros mylampus
+765;Bear, black;Ursus americanus
+363;Cape wild cat;Felis libyca
+1451;Roseat flamingo;Phoenicopterus ruber
+602;Waterbuck, common;Kobus defassa
+1394;House crow;Corvus brachyrhynchos
+1990;Pine siskin;Carduelis pinus
+932;American bighorn sheep;Ovis canadensis
+914;Plover, blacksmith;Vanellus armatus
+1816;Common brushtail possum;Trichosurus vulpecula
+1061;Four-spotted skimmer;Libellula quadrimaculata
+448;Stork, saddle-billed;Ephipplorhynchus senegalensis
+443;Dunnart, fat-tailed;Smithopsis crassicaudata
+915;Bushbuck;Tragelaphus scriptus
+524;Python, carpet;Morelia spilotes variegata
+1268;Blesbok;Damaliscus dorcas
+1731;Sugar glider;Petaurus breviceps
+1279;Trotter, lily;Actophilornis africanus
+1439;Cormorant, pied;Phalacrocorax varius
+1846;Skink, blue-tongued;Tiliqua scincoides
+1590;Galah;Eolophus roseicapillus
+1838;Cockatoo, long-billed;Cacatua tenuirostris
+1133;Skink, blue-tongued;Tiliqua scincoides
+870;Bear, sloth;Melursus ursinus
+1203;Red brocket;Mazama americana
+295;Capuchin, white-fronted;Cebus albifrons
+25;Arctic lemming;Dicrostonyx groenlandicus
+1333;Turkey, australian brush;Alectura lathami
+1059;Rat, arboral spiny;Echimys chrysurus
+388;Dik, kirk's dik;Madoqua kirkii
+1362;Dragon, ornate rock;Ctenophorus ornatus
+509;Desert kangaroo rat;Dipodomys deserti
+989;Stork, european;Ciconia ciconia
+756;Squirrel, pine;Tamiasciurus hudsonicus
+851;American crow;Corvus brachyrhynchos
+272;Whale, long-finned pilot;Globicephala melas
+21;Egyptian viper;Naja haje
+666;Crane, sandhill;Grus canadensis
+1332;Tailless tenrec;Tenrec ecaudatus
+820;Kalahari scrub robin;Certotrichas paena
+1108;Lark, horned;Eremophila alpestris
+1689;Banded mongoose;Mungos mungo
+1734;Tortoise, indian star;Geochelone elegans
+1984;Greater kudu;Tragelaphus strepsiceros
+956;Macaw, scarlet;Ara macao
+918;Egyptian viper;Naja haje
+1582;Antelope ground squirrel;Ammospermophilus nelsoni
+1446;Chimpanzee;Pan troglodytes
+708;African clawless otter;Aonyx capensis
+1427;Ovenbird;Seiurus aurocapillus
+1387;Mouse, four-striped grass;Rhabdomys pumilio
+546;Snake, eastern indigo;Drymarchon corias couperi
+1748;Alpaca;Lama pacos
+1205;Opossum, american virginia;Didelphis virginiana
+281;Rat, desert kangaroo;Dipodomys deserti
+1432;Common waterbuck;Kobus defassa
+616;Bee-eater, carmine;Merops nubicus
+668;American marten;Martes americana
+794;Cape clawless otter;Aonyx capensis
+1476;Indian porcupine;Hystrix indica
+9;Downy woodpecker;Picoides pubescens
+1549;Margay;Felis wiedi or Leopardus weidi
+326;Eagle, pallas's fish;Haliaeetus leucoryphus
+280;Constrictor, eastern boa;Acrantophis madagascariensis
+1921;Osprey;Pandon haliaetus
+1344;Little brown bat;Myotis lucifugus
+1612;Mexican beaded lizard;Heloderma horridum
+740;Cook's tree boa;Corallus hortulanus cooki
+451;Loris, slender;Loris tardigratus
+1300;African jacana;Actophilornis africanus
+473;Dusky rattlesnake;Crotalus triseriatus
+786;Parrot, hawk-headed;Deroptyus accipitrinus
+607;Savannah deer (unidentified);unavailable
+640;Zebra, common;Equus burchelli
+1703;Great kiskadee;Pitangus sulphuratus
+188;Yellow-necked spurfowl;Francolinus leucoscepus
+86;Lion, southern sea;Otaria flavescens
+763;Coot, red-knobbed;Fulica cristata
+1966;Great kiskadee;Pitangus sulphuratus
+1472;Goliath heron;Ardea golieth
+1308;American crow;Corvus brachyrhynchos
+1229;Woylie;Bettongia penicillata
+1728;Quail, gambel's;Callipepla gambelii
+1407;Magpie, black-backed;Gymnorhina tibicen
+785;Bee-eater, white-fronted;Merops bullockoides
+361;Barbet, black-collared;Lybius torquatus
+838;Bird (unidentified);unavailable
+1400;European beaver;Castor fiber
+1028;Crane, sarus;Grus antigone
+1631;Pelican, brown;Pelecanus occidentalis
+876;Crow, american;Corvus brachyrhynchos
+1388;Squirrel, uinta ground;Spermophilus armatus
+1531;Malagasy ground boa;Acrantophis madagascariensis
+1553;Squirrel, pine;Tamiasciurus hudsonicus
+1668;Rufous tree pie;Dendrocitta vagabunda
+896;Gaur;Bos frontalis
+542;Eastern indigo snake;Drymarchon corias couperi
+1699;Eastern cottontail rabbit;Sylvilagus floridanus
+930;Marshbird, brown and yellow;Pseudoleistes virescens
+1366;King cormorant;Phalacrocorax albiventer
+484;Darwin ground finch (unidentified);Geospiza sp.
+1536;Sage hen;Centrocercus urophasianus
+6;Heron, black-crowned night;Nycticorax nycticorax
+539;Long-billed cockatoo;Cacatua tenuirostris
+75;Porcupine, tree;Coendou prehensilis
+1301;Crested screamer;Chauna torquata
+392;Crane, stanley;Anthropoides paradisea
+1914;Vulture, bengal;Gyps bengalensis
+608;African red-eyed bulbul;Pycnonotus nigricans
+1620;Bustard, denham's;Neotis denhami
+1994;Large-eared bushbaby;Galago crassicaudataus
+366;Tiger cat;Dasyurus maculatus
+405;Spoonbill, european;Platalea leucordia
+354;Bush dog;Speothos vanaticus
+1733;Rufous-collared sparrow;Zonotrichia capensis
+1186;Red-breasted cockatoo;Eolophus roseicapillus
+1031;Grouse, sage;Centrocercus urophasianus
+1121;Griffon vulture;Gyps fulvus
+716;Tarantula, salmon pink bird eater;Lasiodora parahybana
+936;Kori bustard;Choriotis kori
+788;Old world fruit bat (unidentified);unavailable
+519;Serval;Felis serval
+1831;Peacock, blue;Pavo cristatus
+418;African wild dog;Lycaon pictus
+1060;Mountain lion;Felis concolor
+1881;Gecko (unidentified);unavailable
+1347;Crab-eating fox;Dusicyon thous
+426;Cape wild cat;Felis libyca
+365;Saddle-billed stork;Ephipplorhynchus senegalensis
+1234;Little blue penguin;Eudyptula minor
+783;Meerkat, red;Cynictis penicillata
+903;Black rhinoceros;Diceros bicornis
+1225;Malachite kingfisher;Corythornis cristata
+203;Bustard, stanley;Neotis denhami
+1490;Lion, southern sea;Otaria flavescens
+1162;Snake (unidentified);unavailable
+1671;Killer whale;Orcinus orca
+1483;South American meadowlark (unidentified);unavailable
+1527;Dog, black-tailed prairie;Cynomys ludovicianus
+1836;Mallard;Anas platyrhynchos
+1081;Laughing kookaburra;Dacelo novaeguineae
+230;Tyrant flycatcher;Myiarchus tuberculifer
+1613;Mexican wolf;Canis lupus baileyi
+1041;Madagascar fruit bat;Pteropus rufus
+548;Giant otter;Pteronura brasiliensis
+180;Pine siskin;Carduelis pinus
+1852;Quoll, eastern;Dasyurus viverrinus
+730;Blacksmith plover;Vanellus armatus
+949;Cormorant, flightless;Nannopterum harrisi
+963;Flying fox (unidentified);unavailable
+647;Blue wildebeest;Connochaetus taurinus
+1688;Bear, american black;Ursus americanus
+1327;Gull, pacific;Gabianus pacificus
+1880;Goat, mountain;Oreamnos americanus
+822;Cockatoo, red-tailed;Calyptorhynchus magnificus
+581;Spoonbill, european;Platalea leucordia
+1187;Puma, south american;Felis concolor
+46;Mocking cliffchat;Thamnolaea cinnmomeiventris
+1135;Blue-faced booby;Sula dactylatra
+1237;Blue duck;Hymenolaimus malacorhynchus
+648;Common zebra;Equus burchelli
+907;Wallaroo, common;Macropus robustus
+1370;Australian magpie;Gymnorhina tibicen
+174;Goldeneye, barrows;Bucephala clangula
+1558;Bear, grizzly;Ursus arctos
+1606;Pie, indian tree;Dendrocitta vagabunda
+1915;Black-crowned night heron;Nycticorax nycticorax
+1478;White-cheeked pintail;Anas bahamensis
+1872;Blue racer;Coluber constrictor foxii
+1049;Western spotted skunk;Spilogale gracilis
+1056;Ring-tailed lemur;Lemur catta
+1507;Saddle-billed stork;Ephipplorhynchus senegalensis
+1997;Water legaan;Varanus salvator
+318;Blue racer;Coluber constrictor foxii
+469;Dassie;Dendrohyrax brucel
+995;Southern white-crowned shrike;Eurocephalus anguitimens
+358;Lynx, african;Felis caracal
+147;Lizard, blue-tongued;Tiliqua scincoides
+874;Tortoise, radiated;Geochelone radiata
+1179;Snake, tiger;Notechis semmiannulatus
+727;Hyena, brown;Hyaena brunnea
+1577;Blue-tongued lizard;Tiliqua scincoides
+213;Swan, black;Cygnus atratus
+2000;Badger, american;Taxidea taxus
+1464;Grouse, greater sage;Centrocercus urophasianus
+860;Goose, egyptian;Alopochen aegyptiacus
+833;Asian lion;Panthera leo persica
+1033;Blue and yellow macaw;Ara ararauna
+239;Meerkat, red;Cynictis penicillata
+390;Legaan, ground;Varanus sp.
+991;Bushbaby, large-eared;Galago crassicaudataus
+153;Sloth, two-toed;Choloepus hoffmani
+219;Ocelot;Felis pardalis
+862;Civet, common palm;Paradoxurus hermaphroditus
+31;Red-capped cardinal;Paroaria gularis
+1088;Nelson ground squirrel;Ammospermophilus nelsoni
+66;Magpie, australian;Gymnorhina tibicen
+808;Magellanic penguin;Spheniscus magellanicus
+488;Pied kingfisher;Ceryle rudis
+1473;Raccoon, common;Procyon lotor
+315;White-necked raven;Corvus albicollis
+836;Stork, black-necked;Ephippiorhynchus mycteria
+1790;Common boubou shrike;Laniarius ferrugineus
+1830;Woodpecker, red-headed;Melanerpes erythrocephalus
+499;Asian openbill;Anastomus oscitans
+1282;Caracara (unidentified);unavailable
+703;Rat, white-faced tree;Echimys chrysurus
+360;Olive baboon;Papio cynocephalus
+1466;Least chipmunk;Eutamias minimus
+573;Lemming, collared;Dicrostonyx groenlandicus
+1421;Indian mynah;Acridotheres tristis
+372;Heron, grey;Ardea cinerea
+253;Malagasy ground boa;Acrantophis madagascariensis
+962;Polar bear;Ursus maritimus
+1807;Black-collared barbet;Lybius torquatus
+1213;Squirrel, eurasian red;Sciurus vulgaris
+1020;Boa, mexican;Boa constrictor mexicana
+1849;Verreaux's sifaka;Propithecus verreauxi
+301;Gull, herring;unavailable
+1085;Stork, european;Ciconia ciconia
+657;Tawny eagle;Anitibyx armatus
+909;Three-banded plover;Charadrius tricollaris
+1323;Cormorant, javanese;Phalacrocorax niger
+1976;Caiman, spectacled;Caiman crocodilus
+1050;Burchell's gonolek;Laniaurius atrococcineus
+457;Otter, cape clawless;Aonyx capensis
+1805;Laughing dove;Streptopelia senegalensis
+90;Penguin, fairy;Eudyptula minor
+1578;Sparrow, house;Passer domesticus
+450;Nyala;Tragelaphus angasi
+325;Golden jackal;Canis aureus
+1535;Kangaroo, eastern grey;Macropus giganteus
+1374;Albatross, waved;Diomedea irrorata
+955;Pademelon, red-legged;Thylogale stigmatica
+1157;Tarantula;Lasiodora parahybana
+513;Ferruginous hawk;Buteo regalis
+1559;Wambenger, red-tailed;Phascogale calura
+1973;Possum, pygmy;Acrobates pygmaeus
+1827;Roller, lilac-breasted;Coracias caudata
+553;American beaver;Castor canadensis
+1293;Black bear;Ursus americanus
+1766;Iguana, common green;Iguana iguana
+1150;Camel, dromedary;Camelus dromedarius
+1493;Dingo;Canis dingo
+586;African elephant;Loxodonta africana
+149;Black-tailed tree creeper;Climacteris melanura
+1557;Tinamou, elegant crested;Eudromia elegans
+1494;European wild cat;Felis silvestris lybica
+1823;Trumpeter, dark-winged;Psophia viridis
+1532;Oriental white-backed vulture;Gyps bengalensis
+544;Springbok;Antidorcas marsupialis
+444;Bleeding heart monkey;Theropithecus gelada
+721;Partridge, coqui;Francolinus coqui
+373;Finch, common melba;Pytilia melba
+1522;Pied kingfisher;Ceryle rudis
+872;Bonnet macaque;Macaca radiata
+1907;Tokay gecko;Gekko gecko
+895;Colobus, black and white;Colobus guerza
+1014;Snake, racer;Coluber constrictor
+52;Red howler monkey;Alouatta seniculus
+1878;North American river otter;Lutra canadensis
+771;Dik, kirk's dik;Madoqua kirkii
+376;Elegant crested tinamou;Eudromia elegans
+1704;Possum, pygmy;Acrobates pygmaeus
+1324;Raccoon, common;Procyon lotor
+507;Northern fur seal;Callorhinus ursinus
+1348;Southern sea lion;Otaria flavescens
+1441;White-mantled colobus;Colobus guerza
+1656;Swan, black;Cygnus atratus
+841;Heron, gray;Ardea cinerea
+1858;Boa, cook's tree;Corallus hortulanus cooki
+242;Lynx, african;Felis caracal
+1341;Squirrel, european red;Sciurus vulgaris
+1414;Magpie, australian;Gymnorhina tibicen
+1735;Vervet monkey;Cercopithecus aethiops
+1164;Indian red admiral;Vanessa indica
+1298;Golden-mantled ground squirrel;Spermophilus lateralis
+630;Lion, california sea;Zalophus californicus
+1795;Least chipmunk;Eutamias minimus
+986;Shrike, common boubou;Laniarius ferrugineus
+1073;Wallaby, dama;Macropus eugenii
+515;American buffalo;Bison bison
+1533;Mudskipper (unidentified);unavailable
+1445;Dove, mourning collared;Streptopelia decipiens
+389;Tapir, brazilian;Tapirus terrestris
+1635;Wolf, timber;Canis lupus lycaon
+121;Roseat flamingo;Phoenicopterus ruber
+38;Hummingbird (unidentified);unavailable
+1999;Pale white-eye;Zosterops pallidus
+414;Turkey, common;Meleagris gallopavo
+54;Dingo;Canis dingo
+1713;Roseat flamingo;Phoenicopterus ruber
+920;European wild cat;Felis silvestris lybica
+1754;European badger;Meles meles
+1153;Gull, kelp;Larus dominicanus
+927;Black-eyed bulbul;Pycnonotus barbatus
+946;Indian tree pie;Dendrocitta vagabunda
+286;Francolin, swainson's;Francolinus swainsonii
+1127;Little heron;Butorides striatus
+1607;Long-tailed jaeger;Stercorarius longicausus
+1801;Columbian rainbow boa;Epicrates cenchria maurus
+424;Stilt, black-winged;Himantopus himantopus
+236;Asiatic jackal;Canis aureus
+1595;Crested screamer;Chauna torquata
+1761;Hawk, ferruginous;Buteo regalis
+1661;White-necked raven;Corvus albicollis
+462;Genet, common;Genetta genetta
+1202;Tree porcupine;Coendou prehensilis
+401;Mongoose, javan gold-spotted;Herpestes javanicus
+1160;Vulture, bengal;Gyps bengalensis
+521;Leadbeateri's ground hornbill;Bucorvus leadbeateri
+871;Possum, ring-tailed;Pseudocheirus peregrinus
+463;Bear, polar;Ursus maritimus
+1277;Pocket gopher (unidentified);unavailable
+175;Black-eyed bulbul;Pycnonotus barbatus
+558;Bobcat;Felis rufus
+1030;South American sea lion;Otaria flavescens
+1679;Sandhill crane;Grus canadensis
+1975;Lesser masked weaver;Ploceus intermedius
+1392;Boubou, southern;Laniarius ferrugineus
+1356;Brown and yellow marshbird;Pseudoleistes virescens
+612;Black-cheeked waxbill;Estrilda erythronotos
+413;Weaver, lesser masked;Ploceus intermedius
+1294;Macaque, pig-tailed;Macaca nemestrina
+359;Leopard, indian;Panthera pardus
+1055;Fox, bat-eared;Otocyon megalotis
+1209;Savannah deer (unidentified);unavailable
+699;Devil, tasmanian;Sarcophilus harrisii
+1099;Cockatoo, red-breasted;Eolophus roseicapillus
+177;African lion;Panthera leo
+1972;Cape cobra;Naja nivea
+1194;Dama wallaby;Macropus eugenii
+1065;Hornbill, red-billed;Tockus erythrorhyncus
+1720;Shark, blue;Prionace glauca
+1591;Common boubou shrike;Laniarius ferrugineus
+277;Egyptian goose;Alopochen aegyptiacus
+1851;Pallas's fish eagle;Haliaeetus leucoryphus
+1622;Greater sage grouse;Centrocercus urophasianus
+464;Weaver, red-billed buffalo;Bubalornis niger
+1825;White-throated toucan;Ramphastos tucanus
+1013;White-winged tern;Chlidonias leucopterus
+1819;Marabou stork;Leptoptilos crumeniferus
+437;Squirrel, palm;Funambulus pennati
+1132;Fox, savanna;Dusicyon thous
+1201;Squirrel, european red;Sciurus vulgaris
+1177;House crow;Corvus brachyrhynchos
+231;Alligator, american;Alligator mississippiensis
+593;Gnu, brindled;Connochaetus taurinus
+1083;Tortoise, indian star;Geochelone elegans
+1281;Black rhinoceros;Diceros bicornis
+1258;Australian pelican;Pelecanus conspicillatus
+1455;Jackal, indian;Canis aureus
+1434;Flying fox (unidentified);unavailable
+1015;Scottish highland cow;Bos taurus
+1096;Groundhog;Marmota monax
+248;Puma, south american;Felis concolor
+1452;African red-eyed bulbul;Pycnonotus nigricans
+1167;Vulture, turkey;Cathartes aura
+718;Common genet;Genetta genetta
+259;Civet, common palm;Paradoxurus hermaphroditus
+745;Springbuck;Antidorcas marsupialis
+28;Southern screamer;Chauna torquata
+429;Colobus, magistrate black;Colobus guerza
+1910;Kangaroo, red;Macropus rufus
+1561;Blue crane;Anthropoides paradisea
+1086;Cow, scottish highland;Bos taurus
+1537;Grey mouse lemur;Microcebus murinus
+77;Tree porcupine;Coendou prehensilis
+795;Arctic tern;Sterna paradisaea
+1884;Gazer, sun;Cordylus giganteus
+1328;Leadbeateri's ground hornbill;Bucorvus leadbeateri
+580;Seal, harbor;Phoca vitulina
+898;Boa, malagasy ground;Acrantophis madagascariensis
+382;African pied wagtail;Motacilla aguimp
+967;Kookaburra, laughing;Dacelo novaeguineae
+629;Gambel's quail;Callipepla gambelii
+770;Lion, steller sea;Eumetopias jubatus
+1698;Sloth, two-toed tree;Choloepus hoffmani
+164;Glossy starling (unidentified);Lamprotornis sp.
+1307;Galapagos sea lion;Zalophus californicus
+970;Spotted wood sandpiper;Tringa glareola
+1178;Rhesus macaque;Macaca mulatta
+1565;Pocket gopher (unidentified);unavailable
+1714;Cormorant, large;Phalacrocorax carbo
+1993;Chital;Axis axis
+1598;Pine siskin;Carduelis pinus
+1905;Rat, arboral spiny;Echimys chrysurus
+1034;Stanley bustard;Neotis denhami
+552;Four-spotted skimmer;Libellula quadrimaculata
+849;Common wallaroo;Macropus robustus
+220;Mandras tree shrew;Anathana ellioti
+386;Tern, arctic;Sterna paradisaea
+105;Pheasant, common;Phasianus colchicus
+1988;African pied wagtail;Motacilla aguimp
+847;Common rhea;Rhea americana
+885;Vulture, egyptian;Neophron percnopterus
+1580;Frogmouth, tawny;Podargus strigoides
+1782;American crow;Corvus brachyrhynchos
+1230;Great skua;Catharacta skua
+551;Goose, egyptian;Alopochen aegyptiacus
+742;Armadillo, seven-banded;Dasypus septemcincus
+258;Butterfly, canadian tiger swallowtail;Papilio canadensis
+1066;Gonolek, burchell's;Laniaurius atrococcineus
+1579;Red-tailed wambenger;Phascogale calura
+596;Hawk, red-tailed;Buteo jamaicensis
+1292;Mouse, four-striped grass;Rhabdomys pumilio
+152;Cormorant, javanese;Phalacrocorax niger
+1956;Stanley crane;Anthropoides paradisea
+1241;Turtle, snake-necked;Chelodina longicollis
+1618;Australian masked owl;Tyto novaehollandiae
+274;Egyptian goose;Alopochen aegyptiacus
+522;Quoll, eastern;Dasyurus viverrinus
+653;Greater flamingo;Phoenicopterus ruber
+1093;Savannah deer (unidentified);unavailable
+1798;Hawk-headed parrot;Deroptyus accipitrinus
+757;Common duiker;Sylvicapra grimma
+260;Egyptian viper;Naja haje
+1329;Helmeted guinea fowl;Numida meleagris
+1458;Long-tailed skua;Stercorarius longicausus
+144;Cockatoo, long-billed;Cacatua tenuirostris
+333;Ring-tailed possum;Pseudocheirus peregrinus
+1037;Numbat;Myrmecobius fasciatus
+1925;Cormorant, neotropic;Phalacrocorax brasilianus
+1596;Cougar;Felis concolor
+827;Hoffman's sloth;Choloepus hoffmani
+655;Stork, marabou;Leptoptilos crumeniferus
+205;Hawk, galapagos;Buteo galapagoensis
+1893;Wildebeest, blue;Connochaetus taurinus
+1054;Feral rock pigeon;Columba livia
+1783;Asian water buffalo;Bubalus arnee
+1017;Heron, giant;Ardea golieth
+1426;African polecat;Ictonyx striatus
+1325;Ringtail;Bassariscus astutus
+1018;Swan, trumpeter;Cygnus buccinator
+961;Otter, giant;Pteronura brasiliensis
+1643;Black spider monkey;Ateles paniscus
+1482;Lesser mouse lemur;Microcebus murinus
+597;Falcon, peregrine;Falco peregrinus
+296;Duck, white-faced whistling;Dendrocygna viduata
+574;Fowl, helmeted guinea;Numida meleagris
+395;Jaguarundi;Felis yagouaroundi
+1404;White-throated monitor;Varanus albigularis
+1185;Turtle, snake-necked;Chelodina longicollis
+500;Jaeger, long-tailed;Stercorarius longicausus
+642;Deer, savannah;Mazama gouazoubira
+218;Long-billed corella;Cacatua tenuirostris
+1184;Gray heron;Ardea cinerea
+494;Zebra, plains;Equus burchelli
+1977;Barbet, crested;Trachyphonus vaillantii
+1321;Robin, kalahari scrub;Certotrichas paena
+456;Greater roadrunner;Geococcyx californianus
+534;Dromedary camel;Camelus dromedarius
+404;Woodcock, american;Scolopax minor
+878;Salmon pink bird eater tarantula;Lasiodora parahybana
+446;Galapagos albatross;Diomedea irrorata
+202;Manatee;Trichechus inunguis
+1463;Tortoise, indian star;Geochelone elegans
+706;Goldeneye, common;Bucephala clangula
+1738;Thomson's gazelle;Gazella thompsonii
+187;Crimson-breasted shrike;Laniaurius atrococcineus
+686;Purple grenadier;Uraeginthus granatina
+1753;Fox, north american red;Vulpes vulpes
+1112;Large-eared bushbaby;Galago crassicaudataus
+1080;Hawk-headed parrot;Deroptyus accipitrinus
+1289;Glider, sugar;Petaurus breviceps
+76;Red-capped cardinal;Paroaria gularis
+1542;Spotted deer;Axis axis
+1318;Porcupine, tree;Coendou prehensilis
+922;White-tailed deer;Odocoilenaus virginianus
+1647;Heron, yellow-crowned night;Nyctanassa violacea
+594;Cockatoo, long-billed;Cacatua tenuirostris
+532;Prehensile-tailed porcupine;Coendou prehensilis
+158;Black-collared barbet;Lybius torquatus
+954;Colobus, white-mantled;Colobus guerza
+1199;Squirrel, palm;Funambulus pennati
+913;Deer, roe;Capreolus capreolus
+183;Squirrel, eurasian red;Sciurus vulgaris
+1644;Crested porcupine;Hystrix cristata
+658;Monkey, bleeding heart;Theropithecus gelada
+384;Tarantula, salmon pink bird eater;Lasiodora parahybana
+1459;Pig-tailed macaque;Macaca nemestrina
+1364;Lapwing (unidentified);Vanellus sp.
+916;Black curlew;Haematopus ater
+1550;Glossy starling (unidentified);Lamprotornis sp.
+807;Crimson-breasted shrike;Laniaurius atrococcineus
+662;Pied cormorant;Phalacrocorax varius
+238;Little blue penguin;Eudyptula minor
+1309;Raccoon dog;Nyctereutes procyonoides
+96;Four-horned antelope;Tetracerus quadricornis
+598;Black-capped capuchin;Cebus apella
+267;Kite, black;Milvus migrans
+1417;Bustard, denham's;Neotis denhami
+1913;Antelope, sable;Hippotragus niger
+547;Southern white-crowned shrike;Eurocephalus anguitimens
+168;Black-collared barbet;Lybius torquatus
+1995;Blackbird, red-winged;Agelaius phoeniceus
+734;Eland, common;Taurotagus oryx
+1206;White-tailed deer;Odocoilenaus virginianus
+715;Small-toothed palm civet;Arctogalidia trivirgata
+364;Barbet, crested;Trachyphonus vaillantii
+394;Short-beaked echidna;Tachyglossus aculeatus
+261;Griffon vulture;Gyps fulvus
+1146;Lechwe, kafue flats;Kobus leche robertsi
+651;Crowned hawk-eagle;Spizaetus coronatus
+1572;Tropical buckeye butterfly;Junonia genoveua
+1270;Javan gold-spotted mongoose;Herpestes javanicus
+1368;Olive baboon;Papio cynocephalus
+1534;Otter, giant;Pteronura brasiliensis
+1405;Silver-backed fox;Vulpes chama
+1850;Gull, swallow-tail;Creagrus furcatus
+1951;Wallaby, red-necked;Macropus rufogriseus
+369;Ibis, glossy;Plegadis falcinellus
+324;Booby, blue-faced;Sula dactylatra
+719;Greater flamingo;Phoenicopterus ruber
+313;Heron, grey;Ardea cinerea
+229;Radiated tortoise;Geochelone radiata
+1804;Cormorant, king;Phalacrocorax albiventer
+113;Palm squirrel;Funambulus pennati
+1009;Gecko (unidentified);unavailable
+1791;Waxbill, violet-eared;Uraeginthus granatina
+1725;Buttermilk snake;Coluber constrictor
+1265;Magnificent frigate bird;Fregata magnificans
+536;Brown pelican;Pelecanus occidentalis
+678;Red kangaroo;Macropus rufus
+1877;North American river otter;Lutra canadensis
+590;Crane, brolga;Grus rubicundus
+78;Fringe-eared oryx;Oryx gazella callotis
+1022;Giraffe;Giraffe camelopardalis
+1592;Moorhen, purple;Porphyrio porphyrio
+861;Fox, arctic;Alopex lagopus
+1369;Gecko, barking;Phylurus milli
+1581;Kafue flats lechwe;Kobus leche robertsi
+1126;Deer, red;Cervus elaphus
+724;Grant's gazelle;Gazella granti
+1428;Carpet python;Morelia spilotes variegata
+151;Frilled lizard;Chlamydosaurus kingii
+1399;Crab, red lava;Graspus graspus
+1189;Timber wolf;Canis lupus lycaon
+1221;Whip-tailed wallaby;Macropus parryi
+63;Roe deer;Capreolus capreolus
+385;Oryx, beisa;Oryx gazella
+1706;Cockatoo, roseate;Eolophus roseicapillus
+1266;Lizard, frilled;Chlamydosaurus kingii
+109;Tortoise, radiated;Geochelone radiata
+1138;South American sea lion;Otaria flavescens
+846;Asian red fox;Vulpes vulpes
+1215;Genoveva;Junonia genoveua
+1568;Oystercatcher, blackish;Haematopus ater
+1163;Southern hairy-nosed wombat;Lasiorhinus latifrons
+937;Azara's zorro;Pseudalopex gymnocercus
+744;Nilgai;Boselaphus tragocamelus
+1940;Puku;Kobus vardonii vardoni
+663;Turkey, common;Meleagris gallopavo
+1841;Thomson's gazelle;Gazella thompsonii
+1380;Waxbill, black-cheeked;Estrilda erythronotos
+61;Macaw, blue and gold;Ara ararauna
+1029;African snake (unidentified);unavailable
+601;Black-tailed tree creeper;Climacteris melanura
+124;Egyptian goose;Alopochen aegyptiacus
+797;Lapwing (unidentified);Vanellus sp.
+1624;Green-winged macaw;Ara chloroptera
+650;Slender-billed cockatoo;Cacatua tenuirostris
+8;Small-spotted genet;Genetta genetta
+707;Cat, ringtail;Bassariscus astutus
+1889;Mexican wolf;Canis lupus baileyi
+468;Crab, red lava;Graspus graspus
+1676;Black-necked stork;Ephippiorhynchus mycteria
+41;Emu;Dromaeus novaehollandiae
+1957;Wombat, common;Vombatus ursinus
+873;Macaw, red and blue;Ara chloroptera
+1443;African porcupine;Hystrix cristata
+1468;Great egret;Casmerodius albus
+1091;Heron, yellow-crowned night;Nyctanassa violacea
+606;African polecat;Ictonyx striatus
+379;Galapagos sea lion;Zalophus californicus
+1701;Coyote;Canis latrans
+953;Woodchuck;Marmota monax
+792;Water legaan;Varanus salvator
+578;Striped hyena;Hyaena hyaena
+1967;Cape fox;Vulpes chama
+633;African buffalo;Snycerus caffer
+13;Badger, american;Taxidea taxus
+557;Small-toothed palm civet;Arctogalidia trivirgata
+855;Tern, white-winged black;Chlidonias leucopterus
+810;Dove, emerald-spotted wood;Turtur chalcospilos
+533;Wallaby, whip-tailed;Macropus parryi
+1504;Pallas's fish eagle;Haliaeetus leucoryphus
+1433;Gonolek, burchell's;Laniaurius atrococcineus
+892;Salmon pink bird eater tarantula;Lasiodora parahybana
+563;Macaw, green-winged;Ara chloroptera
+1360;Langur, gray;Semnopithecus entellus
+905;Common rhea;Rhea americana
+282;Cape clawless otter;Aonyx capensis
+1510;Civet cat;Bassariscus astutus
+660;Asian water buffalo;Bubalus arnee
+1210;Southern elephant seal;Mirounga leonina
+1335;Tern, arctic;Sterna paradisaea
+1787;Serval;Felis serval
+1653;Goldeneye, common;Bucephala clangula
+84;Bear, polar;Ursus maritimus
+32;Goose, canada;Branta canadensis
+1004;African lynx;Felis caracal
+886;Lesser masked weaver;Ploceus intermedius
+1257;Dragon, netted rock;Ctenophorus ornatus
+689;White rhinoceros;Ceratotherium simum
+428;Grey-footed squirrel;Paraxerus cepapi
+1304;Lion, south american sea;Otaria flavescens
+139;Legaan, water;Varanus salvator
+74;Bird, pied butcher;Cracticus nigroagularis
+1806;Crane, black-crowned;Balearica pavonina
+1355;Common mynah;Acridotheres tristis
+997;Lemming, collared;Dicrostonyx groenlandicus
+1630;Bat, madagascar fruit;Pteropus rufus
+289;Feral rock pigeon;Columba livia
+1683;Moorhen, purple;Porphyrio porphyrio
+1740;Dingo;Canis dingo
+1469;African pied wagtail;Motacilla aguimp
+362;Gecko, tokay;Gekko gecko
+1916;Tortoise, radiated;Geochelone radiata
+623;Giant otter;Pteronura brasiliensis
+455;Buttermilk snake;Coluber constrictor
+1280;Chickadee, black-capped;Parus atricapillus
+1724;Cormorant, large;Phalacrocorax carbo
+1705;Small Indian mongoose;Herpestes javanicus
+1530;Pine squirrel;Tamiasciurus hudsonicus
+1978;Comb duck;Sarkidornis melanotos
+589;Loris, slender;Loris tardigratus
+322;Shrike, common boubou;Laniarius ferrugineus
+1062;Urial;Ovis orientalis
+1345;Roadrunner, greater;Geococcyx californianus
+1147;California sea lion;Zalophus californicus
+1239;Heron, gray;Ardea cinerea
+564;Vulture, white-rumped;Gyps bengalensis
+415;Thomson's gazelle;Gazella thompsonii
+480;Old world fruit bat (unidentified);unavailable
+387;Egyptian cobra;Naja haje
+1751;Silver-backed jackal;Canis mesomelas
+791;Green-backed heron;Butorides striatus
+1514;Lizard, collared;Crotaphytus collaris
+245;Agile wallaby;Macropus agilis
+1866;Lark, horned;Eremophila alpestris
+516;Downy woodpecker;Picoides pubescens
+1395;African buffalo;Snycerus caffer
+845;Zorro, common;Dusicyon thous
+624;White-fronted bee-eater;Merops bullockoides
+1786;Squirrel, eurasian red;Sciurus vulgaris
+1226;Pocket gopher (unidentified);unavailable
+975;Ringtail, common;Pseudocheirus peregrinus
+1867;Boa, mexican;Boa constrictor mexicana
+1389;Violet-crested turaco;Tauraco porphyrelophus
+1336;Emerald-spotted wood dove;Turtur chalcospilos
+549;Bear, polar;Ursus maritimus
+370;Sportive lemur;Lepilemur rufescens
+1691;Eastern diamondback rattlesnake;Crotalus adamanteus
+1339;Macaque, rhesus;Macaca mulatta
+1556;Crab-eating fox;Dusicyon thous
+1227;Common nighthawk;Chordeiles minor
+1785;Frilled dragon;Chlamydosaurus kingii
+1800;Suricate;Suricata suricatta
+1098;Mexican beaded lizard;Heloderma horridum
+1650;Gray langur;Semnopithecus entellus
+667;Koala;Phascolarctos cinereus
+1397;Barbet, crested;Trachyphonus vaillantii
+1512;Indian star tortoise;Geochelone elegans
+1297;Hoopoe, eurasian;Upupa epops
+1155;Eurasian beaver;Castor fiber
+1854;Possum, golden brush-tailed;Trichosurus vulpecula
+143;Rufous tree pie;Dendrocitta vagabunda
+482;Vulture, egyptian;Neophron percnopterus
+1402;Four-striped grass mouse;Rhabdomys pumilio
+348;Snake-necked turtle;Chelodina longicollis
+940;Snake, buttermilk;Coluber constrictor
+1143;Mountain goat;Oreamnos americanus
+276;Ferruginous hawk;Buteo regalis
+37;Snake, eastern indigo;Drymarchon corias couperi
+1288;Yellow-necked spurfowl;Francolinus leucoscepus
+1491;Crow, house;Corvus brachyrhynchos
+713;Pale-throated three-toed sloth;Bradypus tridactylus
+1386;Square-lipped rhinoceros;Ceratotherium simum
+1617;Blacksmith plover;Vanellus armatus
+964;Wallaroo, common;Macropus robustus
+1465;Indian star tortoise;Geochelone elegans
+298;Southern right whale;Eubalaena australis
+1842;White-headed vulture;Aegypius occipitalis
+299;Brazilian otter;Pteronura brasiliensis
+782;Dog, african wild;Lycaon pictus
+1409;Brush-tailed bettong;Bettongia penicillata
+62;Green-winged trumpeter;Psophia viridis
+828;Cape clawless otter;Aonyx capensis
+670;Southern brown bandicoot;Isoodon obesulus
+294;Dromedary camel;Camelus dromedarius
+162;Dragonfly, russian;Libellula quadrimaculata
+399;Eagle, crowned;Spizaetus coronatus
+126;Mallard;Anas platyrhynchos
+1089;Sheathbill, snowy;Chionis alba
+830;Galapagos mockingbird;Nesomimus trifasciatus
+687;Oriental white-backed vulture;Gyps bengalensis
+1480;Vulture, lappet-faced;Aegypius tracheliotus
+880;Kafue flats lechwe;Kobus leche robertsi
+1106;Horned lark;Eremophila alpestris
+476;Python (unidentified);unavailable
+1802;Rainbow lory;Trichoglossus haematodus moluccanus
+29;Grouse, sage;Centrocercus urophasianus
+894;Blue duck;Hymenolaimus malacorhynchus
+240;Blue racer;Coluber constrictor foxii
+1721;Dolphin, striped;Stenella coeruleoalba
+449;Genet, small-spotted;Genetta genetta
+1007;Catfish, blue;Ictalurus furcatus
+904;Red lava crab;Graspus graspus
+1141;Black-winged stilt;Himantopus himantopus
+1508;Bobcat;Felis rufus
+22;Bunting, crested;Melophus lathami
+787;Common melba finch;Pytilia melba
+129;African jacana;Actophilornis africanus
+1204;Giant heron;Ardea golieth
+683;Fat-tailed dunnart;Smithopsis crassicaudata
+705;Golden-mantled ground squirrel;Spermophilus lateralis
+1158;Mule deer;Odocoileus hemionus
+717;Glider, sugar;Petaurus breviceps
+960;Gray duiker;Sylvicapra grimma
+490;Nuthatch, red-breasted;Sitta canadensis
+561;Ferruginous hawk;Buteo regalis
+1377;Serval;Felis serval
+1361;Quail, gambel's;Callipepla gambelii
+196;Bushpig;Potamochoerus porcus
+103;Duck, blue;Hymenolaimus malacorhynchus
+1001;Creeper, black-tailed tree;Climacteris melanura
+132;Reindeer;Rangifer tarandus
+108;African porcupine;Hystrix cristata
+1102;Masked booby;Sula dactylatra
+1684;Asiatic wild ass;Equus hemionus
+119;Bat, madagascar fruit;Pteropus rufus
+769;Dassie;Dendrohyrax brucel
+511;Common waterbuck;Kobus defassa
+1876;Nutcracker, clark's;Nucifraga columbiana
+1837;Red-billed hornbill;Tockus erythrorhyncus
+1326;Fowl, helmeted guinea;Numida meleagris
+1140;Mourning collared dove;Streptopelia decipiens
+1047;Rat, arboral spiny;Echimys chrysurus
+1864;Fowl, helmeted guinea;Numida meleagris
+1971;Dragon, ornate rock;Ctenophorus ornatus
+452;North American red fox;Vulpes vulpes
+427;Stick insect;Leprocaulinus vipera
+1064;Praying mantis (unidentified);unavailable
+135;European spoonbill;Platalea leucordia
+491;Prehensile-tailed porcupine;Coendou prehensilis
+853;White-eye, cape;Zosterops pallidus
+1259;Richardson's ground squirrel;Spermophilus richardsonii
+396;Peacock, indian;Pavo cristatus
+728;Dingo;Canis dingo
+1095;Meerkat, red;Cynictis penicillata
+1843;Puma, south american;Felis concolor
+1773;Rhea, gray;Rhea americana
+184;Iguana, common green;Iguana iguana
+285;Dolphin, striped;Stenella coeruleoalba
+402;Common eland;Taurotagus oryx
+685;Snake, racer;Coluber constrictor
+815;Red howler monkey;Alouatta seniculus
+83;Armadillo, nine-banded;Dasypus novemcinctus
+1900;Vulture, king;Sarcorhamphus papa
+1353;Kiskadee, great;Pitangus sulphuratus
+438;Crow, pied;Corvus albus
+1845;Flicker, campo;Colaptes campestroides
+1216;Ox, musk;Ovibos moschatus
+1260;Stork, black-necked;Ephippiorhynchus mycteria
+290;Nutcracker, clark's;Nucifraga columbiana
+793;Galapagos albatross;Diomedea irrorata
+1142;Skua, great;Catharacta skua
+1316;Eastern quoll;Dasyurus viverrinus
+1188;White-throated kingfisher;Halcyon smyrnesis
+221;Rabbit, eastern cottontail;Sylvilagus floridanus
+1382;Leopard, indian;Panthera pardus
+134;Southern lapwing;Vanellus chilensis
+887;Flicker, field;Colaptes campestroides
+722;Great cormorant;Phalacrocorax carbo
+1070;Flightless cormorant;Nannopterum harrisi
+750;Dove, galapagos;Zenaida galapagoensis
+410;Northern phalarope;Phalaropus lobatus
+832;Stork, black-necked;Ephippiorhynchus mycteria
+19;Australian magpie;Gymnorhina tibicen
+309;Hyena, spotted;Crocuta crocuta
+1723;Western pygmy possum;Cercatetus concinnus
+288;Woodpecker, red-headed;Melanerpes erythrocephalus
+1526;Black swan;Cygnus atratus
+314;Bird, red-billed tropic;Phaethon aethereus
+167;White-nosed coatimundi;Nasua narica
+371;Southern ground hornbill;Bucorvus leadbeateri
+691;Mourning collared dove;Streptopelia decipiens
+39;Rainbow lory;Trichoglossus haematodus moluccanus
+367;Ocelot;Felis pardalis
+1687;Red deer;Cervus elaphus
+1601;Chameleon (unidentified);Chamaelo sp.
+1440;Suricate;Suricata suricatta
+226;Snake (unidentified);unavailable
+1283;Marine iguana;Amblyrhynchus cristatus
+1822;Pronghorn;Antilocapra americana
+1902;Cormorant, flightless;Nannopterum harrisi
+271;Baboon, olive;Papio cynocephalus
+641;Phalarope, northern;Phalaropus lobatus
+891;Sally lightfoot crab;Graspus graspus
+1529;Russian dragonfly;Libellula quadrimaculata
+67;Dragonfly, russian;Libellula quadrimaculata
+759;Green vine snake;Oxybelis fulgidus
+1024;Numbat;Myrmecobius fasciatus
+419;Giant girdled lizard;Cordylus giganteus
+987;Civet (unidentified);unavailable
+214;Wolf, mexican;Canis lupus baileyi
+950;Bat, asian false vampire;Megaderma spasma
+550;South American sea lion;Otaria flavescens
+809;Ornate rock dragon;Ctenophorus ornatus
+1359;Hyena, striped;Hyaena hyaena
+775;African snake (unidentified);unavailable
+1961;African lion;Panthera leo
+948;Eastern dwarf mongoose;Helogale undulata
+1264;Zorro, common;Dusicyon thous
+256;Zorro, azara's;Pseudalopex gymnocercus
+420;Heron, black-crowned night;Nycticorax nycticorax
+971;Badger, eurasian;Meles meles
+760;Deer, barasingha;Cervus duvauceli
+1346;White-mantled colobus;Colobus guerza
+1562;Eastern grey kangaroo;Macropus giganteus
+1412;Dusky gull;Larus fuliginosus
+1764;Boa, malagasy ground;Acrantophis madagascariensis
+320;Black-winged stilt;Himantopus himantopus
+520;Coke's hartebeest;Alcelaphus buselaphus cokii
+1090;Small-spotted genet;Genetta genetta
+1848;Sable antelope;Hippotragus niger
+1741;Caracara (unidentified);unavailable
+1109;Aardwolf;Proteles cristatus
+664;Bettong, brush-tailed;Bettongia penicillata
+1708;Cottonmouth;Agkistrodon piscivorus
+1917;Tortoise, burmese black mountain;Manouria emys
+23;Bear, black;Ursus americanus
+483;Short-beaked echidna;Tachyglossus aculeatus
+1430;Asian red fox;Vulpes vulpes
+442;Sandpiper, spotted wood;Tringa glareola
+92;African red-eyed bulbul;Pycnonotus nigricans
+1269;Red-breasted nuthatch;Sitta canadensis
+1856;Gemsbok;Oryx gazella
+729;Monkey, bleeding heart;Theropithecus gelada
+89;Vulture, griffon;Gyps fulvus
+1040;Macaw, red and blue;Ara chloroptera
+1240;Squirrel, thirteen-lined;Spermophilus tridecemlineatus
+1652;Bison, american;Bison bison
+617;Burmese black mountain tortoise;Manouria emys
+316;Puffin, horned;Fratercula corniculata
+690;Vulture, lappet-faced;Aegypius tracheliotus
+56;Weaver, lesser masked;Ploceus intermedius
+1317;Red-winged hawk (unidentified);unavailable
+251;Steenbok;Raphicerus campestris
+1760;Helmeted guinea fowl;Numida meleagris
+1923;South African hedgehog;Erinaceus frontalis
+1981;Burmese black mountain tortoise;Manouria emys
+130;Chacma baboon;Papio ursinus
+823;Golden brush-tailed possum;Trichosurus vulpecula
+346;Blue wildebeest;Connochaetus taurinus
+1546;Heron, striated;Butorides striatus
+1076;Cormorant, flightless;Nannopterum harrisi
+1986;Phalarope, northern;Phalaropus lobatus
+115;Onager;Equus hemionus
+1027;Bee-eater (unidentified);Merops sp.
+1354;Goose, spur-winged;Plectopterus gambensis
+433;Tiger snake;Notechis semmiannulatus
+1006;Eastern box turtle;Terrapene carolina
+1673;Spotted hyena;Crocuta crocuta
+128;Potoroo;Potorous tridactylus
+1637;Goose, andean;Chloephaga melanoptera
+576;Gull, lava;Larus fuliginosus
+1;Jackal, black-backed;Canis mesomelas
+1454;Gila monster;Heloderma horridum
+1376;Pelican, eastern white;Pelecans onocratalus
+1159;Weaver, lesser masked;Ploceus intermedius
+1505;Greater roadrunner;Geococcyx californianus
+1486;Brush-tailed bettong;Bettongia penicillata
+1403;Horned lark;Eremophila alpestris
+1408;Colobus, white-mantled;Colobus guerza
+912;Western grey kangaroo;Macropus fuliginosus
+1228;Stork, painted;Mycteria leucocephala
+585;Cat, european wild;Felis silvestris lybica
+498;Ferruginous hawk;Buteo regalis
+257;Eastern indigo snake;Drymarchon corias couperi
+1045;White-throated kingfisher;Halcyon smyrnesis
+639;Gull, dusky;Larus fuliginosus
+1544;Indian jackal;Canis aureus
+752;Lion, steller's sea;Eumetopias jubatus
+919;Cormorant, great;Phalacrocorax carbo
+308;Antelope, four-horned;Tetracerus quadricornis
+1892;Viper, egyptian;Naja haje
+776;Large-eared bushbaby;Galago crassicaudataus
+1729;Cereopsis goose;Cereopsis novaehollandiae
+530;Collared peccary;Tayassu tajacu
+993;Openbill, asian;Anastomus oscitans
+269;Numbat;Myrmecobius fasciatus
+1920;Spoonbill, white;Platalea leucordia
+40;Jackal, asiatic;Canis aureus
+339;Weaver, red-billed buffalo;Bubalornis niger
+1447;North American river otter;Lutra canadensis
+1311;Galapagos sea lion;Zalophus californicus
+843;Goose, egyptian;Alopochen aegyptiacus
+1398;Whale, killer;Orcinus orca
+941;Large-eared bushbaby;Galago crassicaudataus
+1964;Cape white-eye;Zosterops pallidus
+43;Antelope, sable;Hippotragus niger
+211;Phalarope, red;Phalaropus fulicarius
+1614;Green vine snake;Oxybelis fulgidus
+12;Sloth, two-toed tree;Choloepus hoffmani
+136;Rufous-collared sparrow;Zonotrichia capensis
+1931;Cat, tiger;Dasyurus maculatus
+992;Dromedary camel;Camelus dromedarius
+165;Comb duck;Sarkidornis melanotos
+142;Golden eagle;Aquila chrysaetos
+1131;Duck, white-faced whistling;Dendrocygna viduata
+1949;Defassa waterbuck;Kobus defassa
+422;Rock dove;Columba livia
+199;Sacred ibis;Threskionis aethiopicus
+1912;Spectacled caiman;Caiman crocodilus
+1747;Asian openbill;Anastomus oscitans
+510;Margay;Felis wiedi or Leopardus weidi
+1749;Tsessebe;Damaliscus lunatus
+1219;Guerza;Colobus guerza
+85;Water legaan;Varanus salvator
+1117;Blue fox;Alopex lagopus
+738;Jaeger, long-tailed;Stercorarius longicausus
+287;Mongoose, javan gold-spotted;Herpestes javanicus
+1796;Nuthatch, red-breasted;Sitta canadensis
+190;Pied butcher bird;Cracticus nigroagularis
+138;North American river otter;Lutra canadensis
+1605;Hottentot teal;Anas punctata
+14;Hartebeest, red;Alcelaphus buselaphus caama
+1286;Stone sheep;Ovis dalli stonei
+93;Bee-eater, carmine;Merops nubicus
